@@ -66,8 +66,8 @@ if (isset($_POST["cari"])) {
           </a>
           <div id="li" class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="index.html">Home</a>
-            <a class="dropdown-item" href="Produk.html">Cake</a>
-            <a class="dropdown-item" href="Produk2.html">Bread</a>
+            <a class="dropdown-item" href="Produk.php">Cake</a>
+            <a class="dropdown-item" href="Produk2.php">Bread</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="#">shopping cart</a>
           </div>
@@ -80,7 +80,7 @@ if (isset($_POST["cari"])) {
           <div id="li" class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="#">Order</a>
             <a class="dropdown-item" href="https://t.me/devinursuryanita">Buy Now</a>
-            <a class="dropdown-item" href="Produk3.html">Other</a>
+            <a class="dropdown-item" href="Produk3.php">Other</a>
           </div>
         </li>
 
